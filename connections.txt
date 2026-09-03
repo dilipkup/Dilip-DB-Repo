@@ -1,0 +1,4 @@
+# One connection string per line in the form: username/password@tnsalias
+# Example:
+# nagiosmonitor/cosinit123@PROD_DB
+
